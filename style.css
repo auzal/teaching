@@ -1,0 +1,38 @@
+html, body {
+  margin: 10px;
+  padding: 0;
+  color: #0b5394;
+  font-family: 'DM Mono', monospace;
+  font-size: 9pt;
+  background-color: #f8f8f8;
+  text-align: left;
+}
+
+h2{
+  font-size: 1.4rem;
+  font-weight: 200;
+}
+
+canvas {
+  display: block;
+}
+
+
+a {
+  color: #0b5394;
+  background-color: #ececec;
+  text-decoration: none;
+  transition: color ease 0.3s;
+}
+
+a:hover {
+  color: #0b5394;
+  text-decoration: none;
+  background-color: #e3e7f5;
+
+}
+
+a:visited {
+  text-decoration: none;
+
+}
