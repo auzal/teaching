@@ -51,6 +51,8 @@ th{
   color: #0b5394;
   font-weight: 600;   
   background-color: #ececec;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 td{
